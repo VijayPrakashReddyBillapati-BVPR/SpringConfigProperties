@@ -1,0 +1,13 @@
+label: SpringBoot Config Server
+version: 1.0.0
+state: started
+
+my:
+ greeting: Hello World from config server
+ list:
+  values: One, Two,Three
+  
+db:
+ connection: connection-string-here-from config-server
+ host: 127.0.0.1
+ post: 1200
