@@ -1,7 +1,3 @@
-label: SpringBoot Config Server
-version: 1.0.0
-state: started
-
 my:
  greeting: Hello World from config server
  list:
